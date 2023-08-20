@@ -21,3 +21,15 @@ The workflow of the project unfolds in several steps:
 5. **Evaluation and Results**: The effectiveness of the image classification process is evaluated using appropriate metrics such as accuracy, precision, recall, and F1 score. The project team demonstrates how the combination of PCA-based dimensionality reduction and Euclidean distance-based matching yields robust and accurate image classification results.
 
 In conclusion, the "Dimensionality Reduction and Image Classification using PCA and Euclidean Distance" project showcases the utility of PCA for reducing high-dimensional image data into a more comprehensible space. By employing Euclidean distance-based matching, the project successfully achieves the task of image classification, allowing for efficient categorization and analysis of images. This approach holds significance in fields where visualizing and understanding complex datasets is paramount, such as computer vision, medical imaging, and data-driven decision-making.
+
+# Sample data from Dataset
+![Sample images from Dataset](https://github.com/Yeshvendra/EigenFace/blob/main/Output/Sample_Images.png?raw=true)
+
+# Sample data from Eigenfaces
+![Sample Eigenfaces](https://github.com/Yeshvendra/EigenFace/blob/main/Output/Eigenfaces.png?raw=true)
+
+# Output when the face was matched
+![Output when face matched](https://github.com/Yeshvendra/EigenFace/blob/main/Output/Output_Existing_Image.png?raw=true)
+
+# Output when the face was not matched
+![Output when face was not matched](https://github.com/Yeshvendra/EigenFace/blob/main/Output/Output_NonExisting_Image.png?raw=true)
